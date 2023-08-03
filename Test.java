@@ -9,6 +9,41 @@ class Display{
     }
 }
 
+class Display{
+    void print(){
+        for(int i=0; i<10; i++){
+            try{
+                System.out.println("Hello");
+                Thread.sleep(1000);
+            }catch(Exception e){}
+        }
+    }
+}
+
+
+class Display{
+    void print(){
+        for(int i=0; i<10; i++){
+            try{
+                System.out.println("Hello");
+                Thread.sleep(1000);
+            }catch(Exception e){}
+        }
+    }
+}
+
+
+class Display{
+    void print(){
+        for(int i=0; i<10; i++){
+            try{
+                System.out.println("Hello");
+                Thread.sleep(1000);
+            }catch(Exception e){}
+        }
+    }
+}
+
 
 
 /*
